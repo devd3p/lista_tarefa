@@ -1,4 +1,4 @@
-- Lista de Tarefas em Tkinter -
+ Lista de Tarefas em Tkinter 
 
 Extraia os arquivos antes de iniciar seus projetos.
 
